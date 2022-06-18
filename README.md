@@ -1,5 +1,6 @@
 # Calculando o valor da compra
 Calcular valor de compras
+
 Com esse simples código você atribui o valor e a quantidade de cada produto
 
 ## QUESTÃO:
